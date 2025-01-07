@@ -1,5 +1,5 @@
-Project Title: Go Daddy Platform with Integrated Payment Gateway
-Project Overview
+**Project Title:** Go Daddy Platform with Integrated Payment Gateway
+**Project Overview**
 This project demonstrates the development of a minimalistic e-commerce platform that integrates a payment gateway (e.g., PayPal, Stripe, or Razorpay). The goal is to showcase your skills in building and deploying a full-stack application while effectively implementing a secure payment flow.
 
 Features
@@ -65,19 +65,19 @@ Set up environment variables for sensitive data (API keys, database credentials)
 Deliverables for GitHub
 Code Repository:
 
-Organized folder structure (e.g., /frontend, /backend).
+O**rganized folder structure** (e.g., /frontend, /backend).
 Clear and concise README.md.
 Documentation:
 
-Setup instructions for running the project locally.
+**Setup instructions for running the project locally.**
 API documentation (e.g., using Swagger or Postman collection).
 Explanation of the payment flow and webhook handling.
 Demo Link:
 
-Hosted application URL.
+**Hosted application URL.**
 Include screenshots or GIFs in the README for preview.
 Key Features to Highlight in README:
 
-Integration of a payment gateway.
+**Integration of a payment gateway.**
 Secure handling of sensitive data.
 User-friendly UI/UX design.
